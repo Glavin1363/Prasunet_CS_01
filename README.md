@@ -5,10 +5,16 @@ This project implements a simple Caesar Cipher algorithm in Python. The Caesar C
 
 Features
 Encryption: Shifts each letter in the input text by a specified number of positions.
+
 Decryption: Reverses the shift to retrieve the original text.
+
 Usage
 Run the Program: Execute the Python script and follow the prompts.
+
 User Input:
+
 Choose to encrypt or decrypt.
+
 Enter the message.
+
 Enter the shift value.
